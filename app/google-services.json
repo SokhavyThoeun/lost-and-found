@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "863925991849",
+    "firebase_url": "https://final-project-ddedb-default-rtdb.firebaseio.com",
+    "project_id": "final-project-ddedb",
+    "storage_bucket": "final-project-ddedb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863925991849:android:fe38a55d7a12a7a0c96cb8",
+        "android_client_info": {
+          "package_name": "com.example.mylostandfoundapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfQophgUe32tzIE-FfuumxnEDDydBtZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
