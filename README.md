@@ -5,7 +5,6 @@
 - [Features checklist](#features-checklist)
 - [Technologies and Tools](#technologies-and-tools)
 - [Prerequisites](#prerequisites)
-- [Get started](#get-started)
 - [License](#license)
 
 ## Overview
@@ -49,9 +48,6 @@ To set up and run this project, ensure you have:
     - Minimum SDK: 24
     - Target SDK: 34 (or 35)
 - **Java**: JDK 11
-
-> [!WARNING]
-> For SSH, you would need to set up a SSH key and add it to Github
 
 ## License
 This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details. 
