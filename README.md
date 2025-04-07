@@ -50,17 +50,6 @@ To set up and run this project, ensure you have:
     - Target SDK: 34 (or 35)
 - **Java**: JDK 11
 
-## Get started
-You can "git clone" this repository via https or ssh
-* HTTPS
-  ```sh
-  git clone https://github.com/Sithi-sak/lost-and-found-mobile-app.git
-  ```
-* SSH
-  ```sh
-  git clone git@github.com:Sithi-sak/lost-and-found-mobile-app.git
-  ```
-
 > [!WARNING]
 > For SSH, you would need to set up a SSH key and add it to Github
 
